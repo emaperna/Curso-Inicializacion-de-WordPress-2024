@@ -11,3 +11,9 @@
 
 
 (En Desarrollo!)
+
+
+---
+
+## ⚠️ Derechos Reservados  
+**© 2024 - Todos los derechos reservados**
