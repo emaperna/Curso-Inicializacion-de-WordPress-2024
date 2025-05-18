@@ -7,7 +7,7 @@
 
 ## Contenidos
 
-1. Temas
+1. Temas para Personalización
 
 
 (En Desarrollo!)
